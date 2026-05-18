@@ -12,10 +12,10 @@
 
 ##  Core Features
 
-*   ** 24/7 AI-Powered Contextual Chatbot**
+*   **24/7 AI-Powered Contextual Chatbot**
     *   Powered by the **Llama-3-8B model via the Groq API** for ultra-low latency inference (< 300ms).
     *   Provides instant, context-aware, and empathetic guidance regarding safe actions, legal steps, and emotional reassurance.
-*   ** AI-Moderated Anonymous Community Forums**
+*   **AI-Moderated Anonymous Community Forums**
     *   A safe space for users to share experiences, publish blogs, and read articles.
     *   Integrated with **Google Gemini API** for real-time sentiment analysis, automatically detecting and filtering abusive, toxic, or self-harm-related sentiments before they are posted.
 *   **Direct Volunteer Assistance & Rating System**
@@ -107,5 +107,4 @@ flutter run -d chrome --dart-define=API_BASE_URL=http://127.0.0.1:5000
 
 ---
 
-*A Project Report submitted in partial fulfillment for the B.Tech degree in Computer Science and Engineering at the National Institute of Technology Patna (Jan–Jun 2026).*
 **Team:** Suhana Singh, Muskaan, Supriya Serene
